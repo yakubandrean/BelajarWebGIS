@@ -1,0 +1,1 @@
+var json_PolresMetroJakartaUtara_3 = {"type":"FeatureCollection","name":"PolresMetroJakartaUtara_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"gedung":"Polres Metro Jakarta Utara","foto":null},"geometry":{"type":"Point","coordinates":[106.893902787173076,-6.116964464835064]}}]}
